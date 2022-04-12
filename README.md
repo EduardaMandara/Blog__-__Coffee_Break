@@ -14,4 +14,7 @@ Em seguida, volte na sua pasta ZIP e clique no arquivo 'index.html', que estará
 ## Se precisar de ajuda ou tiver alguma dúvida, estou à disposição nos canais fixados no meu perfil. É só clicar em algum deles e entrar em contato comigo. 
 
 # Agradeço a sua atenção desde já, um abraço! 🤗
+<<<<<<< HEAD
 
+=======
+>>>>>>> 30050cba2d5574497b2de15be15eb9194d32d76b
