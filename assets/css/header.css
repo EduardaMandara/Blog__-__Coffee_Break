@@ -21,12 +21,16 @@
     list-style: none;
     text-decoration: none;
 
-    padding: 50px;
-    font-size: 25px;
+    padding: 30px;
+    font-size: 20px;
     color: rgb(177, 177, 177);
 }
 
 .nav__header ul li a:hover {
     text-decoration: wavy underline;
     font-weight: bold;
+}
+
+.nav__header ul li a:active {
+    color: brown;
 }
