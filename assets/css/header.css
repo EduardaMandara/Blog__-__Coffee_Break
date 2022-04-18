@@ -1,0 +1,32 @@
+#header {
+    background-color: rgb(42, 42, 42);
+    padding: 20px;
+    text-align: center;
+}
+
+.nav__header {
+
+}
+
+.nav__header ul {
+
+}
+
+.nav__header ul li {
+    display: inline-block;
+    position: relative;
+}
+
+.nav__header ul li a {
+    list-style: none;
+    text-decoration: none;
+
+    padding: 50px;
+    font-size: 25px;
+    color: rgb(177, 177, 177);
+}
+
+.nav__header ul li a:hover {
+    text-decoration: wavy underline;
+    font-weight: bold;
+}
