@@ -1,5 +1,24 @@
 
+/* ******************************************** */
+/* <!-- _____ Start Contact Us Here _____ --> */
 
-/* <!-- _____ Start Here _____ --> */
+#contact__us {
+    background-color: rgb(255, 242, 222);
 
-/* <!-- _____ End Here _____ --> */
+    height: 500px;
+    margin: 90px;
+    padding: 30px;
+
+    border-radius: 20px;
+    align-items: center;
+}
+
+#contact__us .contact h1 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+/* Formulário */
+
+/* <!-- _____ End Contact Us Here _____ --> */
+/* *************************************** */

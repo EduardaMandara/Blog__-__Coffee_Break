@@ -21,9 +21,6 @@
         <!-- _____ CURIOSITIES _____ -->
         <link rel="stylesheet" href="./assets/css/curiosities.css">
 
-        <!-- _____ VALUES _____ -->
-        <link rel="stylesheet" href="./assets/css/values.css">
-
         <!-- _____ CONTACT US _____ -->
         <link rel="stylesheet" href="./assets/css/contact.css">
 
@@ -42,7 +39,7 @@
         <div class="nav__header">
             <ul>
                 <li>
-                    <a href="#header"> Home </a>
+                    <a href="./index.html"> Home </a>
                 </li>
 
                 <li>
@@ -111,20 +108,22 @@
         </div>
     </section>
 
-    <!-- __________ VALUES __________ -->
-    <section id="values">
-        <!-- <ul>
-            <li> Iten </li>
-            <li> Iten </li>
-            <li> Iten </li>
-            <li> Iten </li>
-        </ul> -->
-    </section>
-
     <!-- __________ CONTACT US __________ -->
     <section id="contact__us">
         <div class="contact">
+            <h1> Suggestions? Contact Us! ☕ </h1>
+            <form class="form">
+                <label for="name"> Name: <abbr title="required">*</abbr></label>
+                <input type="text" placeholder="Your Name">
 
+                <label for="username">E-mail: <abbr title="required">*</abbr></label>
+                <input id="useremail" type="text" name="useremail" placeholder="example@example.com">
+            </form>
+
+            <form class="message">
+                <label for="message"> Write here: <abbr title="required">*</abbr></label>
+                <input id="message" type="text" name="message" placeholder="Write your message here!">
+            </form>
         </div>
     </section>
 

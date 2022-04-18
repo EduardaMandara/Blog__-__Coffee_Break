@@ -1,4 +1,4 @@
-/* ************************************** */
+/* ******************************************** */
 /* <!-- _____ Start Curiosities Here _____ --> */
 
 #curiosities {
@@ -20,6 +20,7 @@
 }
 
 #curiosities .conteudo h1 {
+    text-align: center;
     text-decoration: wavy underline;
     color: white;
 }
