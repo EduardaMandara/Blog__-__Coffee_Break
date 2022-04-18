@@ -6,7 +6,39 @@
 /* <!-- _____ Start About Here _____ --> */
 
 #about {
-    
+    margin: 50px;
+    padding: 20px;
+}
+
+#about h1 {
+    margin-bottom: 20px;
+
+    font-size: 30px;
+}
+
+#about p {
+    font-size: 18px;
+}
+
+/* Span */
+#about span {
+    color: rgb(255, 106, 0);
+    font-weight: bold;
+}
+
+/* Button */
+#about button {
+    width: 150px;
+    height: 30px;
+    margin-top: 40px;
+
+    border-radius: 10px;
+    border: 1px;
+
+    background-color: rgb(255, 106, 0, 0.529);
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
 }
 
 /* <!-- _____ End About Here _____ --> */
