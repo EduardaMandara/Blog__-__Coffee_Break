@@ -2,11 +2,34 @@
 /* <!-- _____ Start Curiosities Here _____ --> */
 
 #curiosities {
+    background-color: rgb(42, 42, 42);
     margin: 50px;
+    padding: 20px;
+
+    border-radius: 20px;
 }
 
 #curiosities span {
     color: rgb(255,106, 0);
+    font-weight: bold;
+}
+
+/* Lista */
+#curiosities .curiosities__info {
+    margin-top: 30px;
+}
+
+#curiosities .conteudo h1 {
+    text-decoration: wavy underline;
+    color: white;
+}
+
+#curiosities .curiosities__info li {
+    padding-top: 15px;
+    margin: 15px;
+    font-size: 17px;
+
+    color: white;
 }
 
 /* <!-- _____ End Curiosities Here _____ --> */
