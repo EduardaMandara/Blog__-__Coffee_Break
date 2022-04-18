@@ -27,7 +27,7 @@
 }
 
 .nav__header ul li a:hover {
-    text-decoration: wavy underline;
+    text-decoration: underline;
     font-weight: bold;
 }
 

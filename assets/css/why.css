@@ -2,13 +2,82 @@
 
 /* <!-- _____ Start Here _____ --> */
 
-#why {
-
-}
-
+/* ****************************** */
+/* _____ START BANNER HERE _____ */
 .why_ img {
     width: 100%;
-    height: 600px;
+    height: 400px;
 }
+
+.conteudo__banner {
+    position: absolute;
+    display: inline;
+
+    width: 350px;
+    height: 40px;
+    top: 200px;
+    left: 30px;
+}
+
+.conteudo__banner__1 h1 {
+    background-color: rgba(255, 106, 0, 0.529);
+    
+    width: 450px;
+    height: 40px;
+    top: 200px;
+    left: 30px;
+
+    background-color: rgba(255, 106, 0, 0.706);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+.conteudo__banner__2 p {    
+    margin-top: 10px;
+
+    width: 450px;
+    height: 30px;
+    top: 400px;
+    left: 30px;
+
+    background-color: rgba(255, 106, 0, 0.706);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 20px;
+}
+/* _____ END BANNER HERE _____ */
+/* ************************** */
+
+
+
+/* *************************** */
+/* _____ START WHY HERE _____ */
+
+#why .conteudo__text {
+    width: 80%;
+
+    margin: 3% 3% 3% 10%;
+    background-color: rgb(255, 242, 222);
+
+    border-radius: 20px;
+}
+
+#why .conteudo__text h2 {
+    font-size: 30px;
+
+    padding: 10px;
+    text-align: center;
+}
+
+.conteudo__text p {
+    font-size: 18px;
+
+    padding: 10px;
+    text-align: center;
+}
+
+/* _____ END WHY HERE _____ */
+/* *********************** */
 
 /* <!-- _____ End Here _____ --> */
