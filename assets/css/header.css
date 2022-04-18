@@ -2,9 +2,14 @@
 /* <!-- _____ Start Here _____ --> */
 
 #header {
-    background-color: rgb(42, 42, 42);
+    width: 100%;
+
+    /* background-color: rgb(42, 42, 42); */
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 20px;
+    
     text-align: center;
+    position: fixed;
 }
 
 .nav__header ul li {
@@ -17,8 +22,8 @@
     text-decoration: none;
 
     padding: 30px;
-    font-size: 20px;
-    color: rgb(177, 177, 177);
+    font-size: 25px;
+    color: rgb(202, 202, 202);
 }
 
 .nav__header ul li a:hover {
