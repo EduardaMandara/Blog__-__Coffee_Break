@@ -17,4 +17,16 @@
 .copy h3 {
     padding-top: 450px;
 }
+
+#footer .footer__icons {
+    width: 100%;
+
+    list-style: none;
+    text-decoration: none;
+
+    align-items: center;
+
+    color: bisque;
+}
+
 /* <!-- _____ End Here _____ --> */
