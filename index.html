@@ -30,7 +30,7 @@
     <!-- _____ End CSS's _____ -->
 
 
-    <link rel="icon" href="./assets/img/logo/logo__#95a3b3.jpg">
+    <link rel="icon" href="#">
     <title> Blog | Coffee Break </title>
 </head>
 <body>
@@ -111,19 +111,25 @@
     <!-- __________ CONTACT US __________ -->
     <section id="contact__us">
         <div class="contact">
+
             <h1> Suggestions? Contact Us! ☕ </h1>
-            <form class="form">
-                <label for="name"> Name: <abbr title="required">*</abbr></label>
-                <input type="text" placeholder="Your Name">
+            
+            <div id="form">
+                <form class="form">
+                    <label for="name"> Name: (Complete) </label>
+                    <input id="username" type="text" placeholder="Your Name">
+    
+                    <label for="useremail"> E-mail: </label>
+                    <input id="useremail" type="text" name="useremail" placeholder="example@example.com">
+                </form>
+    
+                <form id="message_">
+                    <label for="message"> Write here: </label>
+                    <input id="message" type="text" name="message" placeholder="Write your message here!">
+                </form>
+            </div>
 
-                <label for="username">E-mail: <abbr title="required">*</abbr></label>
-                <input id="useremail" type="text" name="useremail" placeholder="example@example.com">
-            </form>
-
-            <form class="message">
-                <label for="message"> Write here: <abbr title="required">*</abbr></label>
-                <input id="message" type="text" name="message" placeholder="Write your message here!">
-            </form>
+            <button id="send__message"> Send yor message now! </button>
         </div>
     </section>
 
