@@ -1,7 +1,7 @@
 
 
-
-/* <!-- _____ Start Here _____ --> */
+/* *************************************** */
+/* <!-- _____ Start Footer Here _____ --> */
 
 #footer {
     background-color: rgb(42, 42, 42);
@@ -29,4 +29,19 @@
     color: bisque;
 }
 
-/* <!-- _____ End Here _____ --> */
+/* Footer | Menu's */
+#footer ul li a {
+    display: inline;
+
+    list-style: none;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(202, 202, 202); /* STOP HERE */
+}
+
+/* Footer | Social Midia */
+
+/* <!-- _____ End Footer Here _____ --> */
+/* *********************************** */
+
