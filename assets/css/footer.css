@@ -8,6 +8,23 @@
 
 }
 
+/* Footer | Menu's ( Company and Communities ) */
+#footer ul li a {
+    display: inline;
+
+    list-style: none;
+    text-decoration: none;
+    padding: 30px;
+    font-size: 20px;
+    color: rgb(202, 202, 202); /* STOP HERE */
+}
+
+/* Footer | Social Midia */
+.social__midia {
+
+}
+
+/* Footer | Considerações */
 .copy {
     height: 500px;
     text-align: center;
@@ -28,19 +45,6 @@
 
     color: bisque;
 }
-
-/* Footer | Menu's */
-#footer ul li a {
-    display: inline;
-
-    list-style: none;
-    text-decoration: none;
-    padding: 30px;
-    font-size: 20px;
-    color: rgb(202, 202, 202); /* STOP HERE */
-}
-
-/* Footer | Social Midia */
 
 /* <!-- _____ End Footer Here _____ --> */
 /* *********************************** */
