@@ -5,46 +5,71 @@
 
 #footer {
     background-color: rgb(42, 42, 42);
-
+    color: #c2b19c;
+    padding: 80px;
 }
 
+.footer__contant {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    padding: 80px 0;
+}
+
+ /* ___________________________________________ */
 /* Footer | Menu's ( Company and Communities ) */
-#footer ul li a {
-    display: inline;
-
+.footer__menu {
+    margin: 0 40px;
     list-style: none;
-    text-decoration: none;
-    padding: 30px;
-    font-size: 20px;
-    color: rgb(202, 202, 202); /* STOP HERE */
 }
 
+.footer__menu p {
+    font-weight: bold;
+    text-transform: uppercase;
+    color:  rgb(255, 106, 0);
+    font-size: 0.8rem;
+}
+
+.footer-menu-item {
+    margin: 25px 0;
+}
+
+ /* _____________________ */
 /* Footer | Social Midia */
 .social__midia {
-
+    display: flex;
 }
 
+.social__midia p {
+    font-weight: bold;
+    text-transform: uppercase;
+    color:  rgb(255, 106, 0);
+    font-size: 0.8rem;
+}
+
+.social__midia .icons i {
+    margin: 0 10px;
+    font-size: 1.7rem;
+
+    color: #c2b19c;
+}
+
+.social__midia .icons i:hover {
+    color: var( rgb(255, 106, 0));
+    cursor: pointer;
+}
+
+ /* ______________________ */
 /* Footer | Considerações */
 .copy {
-    height: 500px;
+    height: 400px;
     text-align: center;
     color: rgb(177, 177, 177);
 }
 
 .copy h3 {
-    padding-top: 450px;
-}
-
-#footer .footer__icons {
-    width: 100%;
-
-    list-style: none;
-    text-decoration: none;
-
-    align-items: center;
-
-    color: bisque;
-}
+    padding-top: 350px;
+};
 
 /* <!-- _____ End Footer Here _____ --> */
 /* *********************************** */
