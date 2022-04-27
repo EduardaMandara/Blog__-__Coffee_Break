@@ -1,4 +1,4 @@
-## Blog 🚧 Under construction 🚧
+## Blog | Coffee Break
 
 ### Como rodar o projeto?
 
@@ -12,7 +12,6 @@
 ### Quais são as tecnologias utilizadas?
 
 * HTML5;
-* CSS3;
-* JavaScript.
+* CSS3.
 
 ### Agradeço a sua atenção desde já, um abraço! 🤗
